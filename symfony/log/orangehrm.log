@@ -1,0 +1,13 @@
+[11-Aug-2015 17:19:03 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\onehr\installer\cleanUp.php on line 50
+[11-Aug-2015 17:19:03 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\onehr\install.php on line 150
+[11-Aug-2015 17:19:03 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\onehr\install.php on line 150
+[11-Aug-2015 17:19:03 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\onehr\install.php on line 150
+[11-Aug-2015 17:19:03 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\onehr\install.php on line 150
+[11-Aug-2015 17:19:03 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\onehr\install.php on line 150
+[11-Aug-2015 17:19:03 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\onehr\install.php on line 150
+[11-Aug-2015 17:19:03 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\onehr\install.php on line 150
+[11-Aug-2015 17:19:03 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\onehr\install.php on line 150
+[11-Aug-2015 17:19:03 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\onehr\installer\cleanUp.php on line 50
+[11-Aug-2015 17:19:42 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\onehr\install.php on line 222
+[11-Aug-2015 17:20:32 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\onehr\install.php on line 222
+[11-Aug-2015 17:21:16 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\onehr\install.php on line 222
